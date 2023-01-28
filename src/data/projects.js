@@ -1,47 +1,31 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'BopifyDB',
+    subtitle: 'Spotify Revamped.',
+    link: 'https://github.com/domotheawsome/BopifyDB',
+    image: '/images/projects/bopify3.png',
+    date: '2022-05-01',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Implemented a database administration system and web-based UI using MySQL, Flask, and Bootstrap with inspiration from Spotify.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Smallsh',
+    subtitle: 'Bash-like shell capable of many things, all written in C.',
+    link: 'https://github.com/domotheawsome/academic-portfolio/tree/main/CS%20344%20--%20operating%20systems%20I',
+    image: '/images/projects/smallsh3.png',
+    date: '2022-04-01',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Built a simplified Bash-like shell in C Lang capable of executing built-in commands, I/O redirection, and inter-process communication using UNIX API functions.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'BumpBot',
+    subtitle: 'Playing tag with a set of microcontrollers.',
+    link: 'https://github.com/domotheawsome/academic-portfolio/tree/main/ECE%20375%20--%20computer%20organization%20and%20assembly%20language%20programming',
+    image: '/images/projects/atmega2.png',
+    date: '2022-03-01',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Created a proof-of-concept ’freeze-tag’ robots using Assembly, by utilizing interrupts from multiple sources to have two AVR boards interact with each other.',
   },
 ];
 
