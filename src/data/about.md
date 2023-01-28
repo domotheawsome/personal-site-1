@@ -1,43 +1,42 @@
 # Intro
 
-I am a computer science student at Oregon State University where I learn concepts to apply to my future software engineering skills. I also tutor in programming languages and skills, and I participate in machine learning research with bleeding-edge GPUs. I am particularly interested in projects that touch machine learning, AI, and fullstack development. If you think I can be helpful to you or would like to meet me, please feel free to get in touch. 
+I am a computer science student at Oregon State University and aspiring SWE. I am passionate about projects related to machine learning, AI, and full-stack development.  In addition, I tutor in programming languages and skills, and participate in cutting-edge machine learning research using state-of-the-art GPUs.  If you think I can be helpful to you or would like to connect, please do not hesitate to reach out. 
 
 # Currently
 
-At Oregon State, I have learned how to collaborate with teams, manage projects, shape, and develop relationships with companies, build items with technologies like Python, React, and Rust. I primarily work as a software engineer but I have broad experience across disciplines and stacks.
+At Oregon State University, I have honed my skills in collaborating with teams, managing projects, fostering relationships with companies, and building software using technologies such as Python, React, and Go. While my primary focus is as a software engineer, I have gained a diverse range of experience across different disciplines and technology stacks.
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
 
 # Some history
 
-- Computer programming has always been on my radar since a young age. My father is a software engineer on the cusp of many cutting-edge technologies and introduced my to Roblox at it's peak in 2009. Cue the start of a gaming addiction at a young age.
+- Computer programming has always been on my radar since a young age. My father, a software engineer working on cutting-edge technologies, introduced me to Roblox at its peak in 2009, which led to the start of a gaming addiction at a young age.
 
-- From Roblox, I twiddled around with their game engine and designed/coded personal games, especially those that featured modern house designs. I would share these accomplishments with friends and family, thinking one day I'll become an architect.
+- From playing Roblox, I began experimenting with the game engine and designing and coding personal games, particularly those featuring modern house designs. I would share these accomplishments with friends and family, and I even thought about becoming an architect one day.
 
-- Architecture and game development quickly fell off my radar as I started to grow more into non-profit work. Throughout high school, I began contributing my time towards volunteering centered around children & youth, and developing my leadership skills and presence both in my school and community.
+- However, architecture and game development fell off my radar as I became more interested in non-profit work. Throughout high school, I began dedicating my time to volunteering for organizations focused on children and youth, and I developed my leadership skills and presence in both my school and community.
 
-- I spearheaded a number of programs while in high school, including implementing a peer tutoring program, arranging a school-wide card drive for the elderly, and arranging numerous non-profit opportunities for the National Honor Society, which I served as president for a brief moment. 
+- In high school, I spearheaded a number of programs, including implementing a peer tutoring program, organizing a school-wide card drive for the elderly, and arranging numerous non-profit opportunities for the National Honor Society, which I served as president for a brief period.
 
-- Right before graduation, after deciding between a wide range of studies, I settled on computer science at Oregon State University. This was a major shift for me as I had little coding experience and no projects under my belt, but I knew I would be making the right descision. 
+- Right before graduation, after considering a wide range of studies, I decided to pursue computer science at Oregon State University. This was a major shift for me, as I had little coding experience and no projects under my belt, but I knew it was the right decision.
 
-- Right before college, I began frantically learning basic Python programming, everything from conditional statements to control loops, to prepare for my first Introduction to Computer Science course at OSU. This is where I wrote my first "Hello World!" in Python. And of course I took Harvard's CS50 course.
+- In preparation for my first computer science course at OSU, I began frantically learning basic Python programming, everything from conditional statements to control loops. This is where I wrote my first "Hello World!" program in Python, and I also took Harvard's CS50 course.
 
-- Entering college, I knew I overprepared myself just by a slight margin. I flew through the first couple coding courses but quickly realized just how marginalized women were in the field. A glance around the classroom tells you that all the statistics and articles about women in tech are true. I quickly found myself exploring diversity networks around campus and beyond.
+- Upon entering college, I realized I had overprepared myself slightly. I excelled in the first few coding courses but quickly realized how marginalized women were in the field. A glance around the classroom confirmed that the statistics and articles about women in tech are true. I quickly found myself exploring diversity networks on campus and beyond.
 
-- I oriented myself in a number of extracurricular organizations that supported women in tech and women in engineering. I quickly became steadfast member in ACM-W (Association of Computing Machinery for Women), SWE (Society for Women Engineers), and Rewriting the Code. I continue to be deeply grateful for the community I have found in these organziations and have since mentored and served in a number of capacities for other women navigating engineering studies.
+- I became actively involved in a number of extracurricular organizations that supported women in tech and women in engineering, such as ACM-W (Association of Computing Machinery for Women), SWE (Society for Women Engineers), and Rewriting the Code. I am deeply grateful for the community I have found in these organizations and have since mentored and served in various capacities for other women navigating engineering studies.
 
-- I also discovered a new interest in competitive programming, where I have been able to master  algorithm and DS concepts through collaboration and competition with my peers at ACM (Association for Computing Machinery). I competed in ICPC 2021 and placed second in Oregon alongside my team. 
+- I also discovered a new interest in competitive programming, where I have been able to master algorithm and data structure concepts through collaboration and competition with my peers in the ACM (Association for Computing Machinery). I competed in ICPC 2021 and placed second in Oregon with my team.
 
-- I've since taken every interesting CS course at OSU, from assembly level programming to advanced web development, and holistically shaping my skills. My most favorite class so far has to be Introduction to Assembly Language where I got to program microcontrollers to play freeze tag.
+- I have taken every interesting CS course at OSU, from assembly-level programming to advanced web development, and have been working to shape my skills holistically. My favorite class so far has been Introduction to Assembly Language, where I got to program microcontrollers to play freeze tag.
 
-- I've also earned a position as a peer tutor where I'm able to assist students with DS/Algo concepts and a new research position working at the intersection of GPUs and machine learning. 
+- I have also earned a position as a peer tutor, where I assist students with data structure and algorithm concepts, and a new research position working at the intersection of GPUs and machine learning.
 
-- My history still continues, one can say this is just the start. I look forward to working through internships, starting my professional career, and growing both as a person and engineer. 
+- My story is ongoing, and this is just the beginning. I look forward to working through internships, starting my professional career, and growing both as a person and engineer.. 
 
 # Outside of Tech
 
-- I have been studying music as a double major at OSU where I am slowly yet surely mastering the classical guitar. My most favorite composer is Antonio Lauro and I am deeply knowledgable and passionate about South American + Mexican music starting from the romantic period.
+- I have been studying music as a double major at OSU where I am graduallymastering the classical guitar. My most favorite composer is Antonio Lauro and I am deeply knowledgable and passionate about South American music, starting from the romantic period.
 
-- I enjoy gardening/horticulture and regularly participate in the community garden at OSU. I have gained quite a bit of knowledge/skills since starting in 2019 and look forward to maintaining my own garden/living sustainably in the future.
+- I enjoy gardening/horticulture and regularly participate in the community garden at OSU. Since starting in 2019, I have gained a significant amount of knowledge and skills, and I look forward to maintaining my own garden and living sustainably in the future.
 
-- I enjoy traveling and look forward to traveling more in the near future. 
+- I am eager to travel abroad and explore new cultures, cuisines, and landscapes. The opportunity to immerse myself in a different way of life and gain a new perspective is incredibly exciting to me. As Ibn Battuta said, "Travel leaves you speechless, then turns you into a storyteller."
