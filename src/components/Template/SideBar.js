@@ -19,8 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Ariel. I like building things.
-        I am a <a href="https://oregonstate.edu/">Oregon State University</a> CS student, future SWE, and cat enthusiast. I&apos;m a coding tutor and research assistant at OSU, and I&apos;m actively searching for a Summer 2023 SWE internship.
+      <p>Hi, I&apos;m Ariel. I&apos;m passionate about software
+        and people.
+        I am an <a href="https://oregonstate.edu/">Oregon State University</a> CS student and future SWE. I&apos;m actively searching for a Summer 2023 SWE internship, reach out if we seem like a good fit.
       </p>
       <ul className="actions">
         <li>

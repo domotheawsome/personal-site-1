@@ -11,9 +11,9 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">Ariel Meshorer</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Hello, I&apos;m Ariel.</Link></h2>
           <p>
-            Student, Developer, Futurist.
+            Student, Developer, Human.
           </p>
         </div>
       </header>

@@ -25,7 +25,7 @@ const data = [
     image: '/images/projects/atmega2.png',
     date: '2022-03-01',
     desc:
-      'Created a proof-of-concept ’freeze-tag’ robots using Assembly, by utilizing interrupts from multiple sources to have two AVR boards interact with each other.',
+      'Created a proof-of-concept ’freeze-tag’ robots using Assembly by utilizing interrupts from multiple sources to have two AVR boards interact with each other.',
   },
 ];
 
